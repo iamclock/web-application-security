@@ -24,4 +24,4 @@
 * [DOM XSS Game](http://www.domxss.com/domxss/)
 
 ### SQLi
-* [Zixem Challeng/](http://www.zixem.altervista.org/SQLi/)
+* [Zixem Challenge/](http://www.zixem.altervista.org/SQLi/)
