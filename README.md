@@ -2,7 +2,7 @@
 
 ## Course Description
 
-This is an introductory course on "Web Application Penetration Testing" is teached to students of the «Computer Security» speciality in [National Research Tomsk State University](http://en.tsu.ru/) on the [Information Security and Cryptography Department](http://isc.tsu.ru)
+This is an introductory course on «Web Application Penetration Testing» is teached to students of the «Computer Security» speciality in [National Research Tomsk State University](http://en.tsu.ru/) on the [Information Security and Cryptography Department](http://isc.tsu.ru).
 
 ## Resources
 
