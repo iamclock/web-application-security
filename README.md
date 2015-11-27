@@ -6,6 +6,10 @@ This is an introductory course on «Web Application Penetration Testing» is tea
 
 ## Resources
 
+### Special Test Beds
+
+* [Google Firing Range](https://public-firing-range.appspot.com/)
+
 ### Vulnerable Web Sites
 * [http://zero.webappsecurity.com/](http://zero.webappsecurity.com/)
 * [http://demo.testfire.net/](http://demo.testfire.net/)
