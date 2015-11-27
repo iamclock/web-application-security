@@ -20,7 +20,7 @@ This is an introductory course on «Web Application Penetration Testing» is tea
 
 ### Vulnerable Web Applications
 * [Damn Vulnerable Web Application](http://www.dvwa.co.uk/)
-* [A buggy web application]http://www.itsecgames.com/
+* [A buggy web application](http://www.itsecgames.com/)
 * [WebGoat](https://github.com/WebGoat/WebGoat)
 * [Gruyere](https://google-gruyere.appspot.com/)
 * [Django.nV](https://github.com/nVisium/django.nV)
