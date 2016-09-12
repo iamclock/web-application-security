@@ -1,4 +1,4 @@
-# Web Application Penetration Testing
+# Web Applications Security Testing
 
 ## Course Description
 
