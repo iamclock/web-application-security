@@ -18,7 +18,8 @@ This is an introductory course on «Web Application Penetration Testing» is tea
 
 ## Resources
 
-### [Getting Started With Burp Suite](https://portswigger.net/burp/help/suite_gettingstarted.html)
+### Getting Started
+[Getting Started With Burp Suite](https://portswigger.net/burp/help/suite_gettingstarted.html)
 
 ### Special Test Beds
 
