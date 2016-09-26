@@ -21,6 +21,7 @@ This is an introductory course on «Web Applications Security Testing» is teach
 
 ## Resources
 
+* [OWASP Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 * [Getting Started With Burp Suite](https://portswigger.net/burp/help/suite_gettingstarted.html)
 * [Special Vulnerable Applications](apps.md)
 * [Challenges](challenges.md)
