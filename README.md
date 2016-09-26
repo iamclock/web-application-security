@@ -16,6 +16,9 @@ This is an introductory course on «Web Applications Security Testing» is teach
 
 4. Configure a proxy server in your browser to use `Burp Suite`.
 
+## Security Tests
+1. [SSL Checklist for Pentesters](http://www.exploresecurity.com/wp-content/uploads/custom/SSL_manual_cheatsheet.html)
+
 ## Resources
 
 * [Getting Started With Burp Suite](https://portswigger.net/burp/help/suite_gettingstarted.html)
