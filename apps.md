@@ -10,6 +10,7 @@
 * [http://aspnet.testsparker.com/process.aspx?file=Generics/index.aspx](http://aspnet.testsparker.com/process.aspx?file=Generics/index.aspx)
 
 ### Vulnerable Web Applications
+* [Hackazon](https://github.com/rapid7/hackazon)
 * [Damn Vulnerable Web Application](http://www.dvwa.co.uk/)
 * [A buggy web application](http://www.itsecgames.com/)
 * [WebGoat](https://github.com/WebGoat/WebGoat)
