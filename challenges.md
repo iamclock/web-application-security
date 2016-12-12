@@ -9,3 +9,5 @@
 
 ### SQL Injection
 * [Zixem Challenge](http://www.zixem.altervista.org/SQLi/)
+* [MYSQLi Labs](http://root0x00.altervista.org/sqli/)
+* [Hackerdom Trainings](http://training.hackerdom.ru/board/)
