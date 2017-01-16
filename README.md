@@ -1,8 +1,8 @@
-# Web Applications Security Testing
+# Web Application Security
 
 ## Course Description
 
-This is an introductory course on «Web Applications Security Testing» is teached to students of the «Computer Security» speciality in [National Research Tomsk State University](http://en.tsu.ru/) on the [Information Security and Cryptography Department](http://isc.tsu.ru).
+This is an introductory course on «Web Application Security» is teached to students of the «Computer Security» speciality in [National Research Tomsk State University](http://en.tsu.ru/) on the [Information Security and Cryptography Department](http://isc.tsu.ru).
 
 ### Getting Started With Burp Suite
 
